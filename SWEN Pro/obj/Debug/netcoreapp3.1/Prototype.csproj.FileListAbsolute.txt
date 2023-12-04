@@ -1,0 +1,13 @@
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\butri\OneDrive\Desktop\SWEN Pro\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
